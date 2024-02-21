@@ -6,12 +6,12 @@ This Python project is designed to analyze and extract valuable insights from Wh
 Getting Started:
 To kickstart the analysis, follow these simple steps to import your WhatsApp chat data into the Python program:
 
--> Open the WhatsApp group chat you want to analyze.
--> Tap on the three-dot menu icon at the top right corner.
--> Select "More" or "Export Chat" from the menu options.
--> Decide whether to include media files or export the chat without them.
--> Choose a destination for the exported chat file (email, cloud storage, etc.).
--> Send the chat export to yourself or save it to a location accessible on your computer.
+* Open the WhatsApp group chat you want to analyze.
+* Tap on the three-dot menu icon at the top right corner.
+* Select "More" or "Export Chat" from the menu options.
+* Decide whether to include media files or export the chat without them.
+* Choose a destination for the exported chat file (email, cloud storage, etc.).
+* Send the chat export to yourself or save it to a location accessible on your computer.
 
 Analyzing Your Group Chat:
 Once you've imported the WhatsApp group chat data, the program provides several features for analysis:
@@ -23,6 +23,7 @@ Once you've imported the WhatsApp group chat data, the program provides several 
 5. Data Visualization: Visualize insights through charts and graphs for better understanding.
 
 Note:
+
 This project combines essential text processing techniques, statistical analysis, and data visualization to offer a clear and comprehensive analysis of your WhatsApp group conversations. The emphasis is on simplicity and clarity, ensuring that users can easily navigate and interpret the results for a meaningful understanding of their group dynamics."
 
 
